@@ -40,6 +40,7 @@ class Navbar extends Component {
                 text:'projects'
             },
         ],
+        
         showLinks:false,
     }
 
